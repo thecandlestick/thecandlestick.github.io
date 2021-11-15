@@ -14,8 +14,7 @@ I am an undergraduate research assistant at the [Wireless Networking and Intelli
 
 ## Research Interests
 
-- Routing Protocols / Graph Theory
-- Wireless Communication
-- Internet-of-Things
+- Graph Theory; _Application: Routing Protocols_
+- Computer Networking; _Application: Wireless Communication_
 - Computer Science Education
-- Natural Computation
+- Data Structures & Algorithms
