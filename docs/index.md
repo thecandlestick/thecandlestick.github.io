@@ -2,7 +2,7 @@
 # Jack Manhardt
 _Undergraduate Computer Science & Applied Mathematics student at Missouri S&T_
 <br>
-![me.jpeg](photo c.2018)
+![photo c.2018](me.jpeg)
 <br>
 
 Contact me: jmmbbv@mst.edu
