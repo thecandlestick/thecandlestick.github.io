@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/thecandlestick/thecandlestick.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+# Jack Manhardt
+_Undergraduate Computer Science & Applied Mathematics student at Missouri S&T_
+<br>
+![me.jpeg](photo c.2018)
+<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Contact me: jmmbbv@mst.edu
+<br>
 
-### Markdown
+## Biography
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am an undergraduate research assistant at the [Wireless Networking and Intelligent Systems](https://cs.mst.edu/research/labs/wireless-networks-and-intelligent-systems/) lab under the supervision of [Dr. Nan Cen](https://sites.google.com/a/mst.edu/nancen/home). I have a strong interest in computer science theory and plan to pursue a graduate degree beginning in the 2022-2023 academic year. For 3 years I have served as the leader of Missouri S&T's [competitive programming team.](https://comp.mstacm.org/).
 
-```markdown
-Syntax highlighted code block
+## Research Interests
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thecandlestick/thecandlestick.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Routing Protocols / Graph Theory
+- Wireless Communication
+- Internet-of-Things
+- Computer Science Education
+- Natural Computation
