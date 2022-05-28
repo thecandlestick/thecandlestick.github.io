@@ -1,0 +1,15 @@
+html {
+	/*background-color: #C3F5AA; /*light green background*/
+}
+
+h1 {
+	text-align: center
+}
+
+body {
+	width: 1000px;
+	margin: 0 auto;
+	background-color: #C3F5AA;
+	padding: 0 20px 20px 20px;
+	border: 5px solid black;
+}
