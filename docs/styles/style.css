@@ -1,5 +1,6 @@
 html {
-	/*background-color: #C3F5AA; /*light green background*/
+	background-color: #C3F5AA; /*light green background*/
+	justify-content: center;
 }
 
 h1 {
@@ -7,10 +8,9 @@ h1 {
 }
 
 body {
-	width: 1000px;
-	margin: 0 auto;
-	margin-color:
-	background-color: #C3F5AA;
-	padding: 0 20px 20px 20px;
+	width: 50%;
+	margin: auto;
+	background-color: #FFFFFF;
+	padding: 5% 10%;
 	border: 5px solid black;
 }
